@@ -50,7 +50,7 @@
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)  
-✉️ santosba.andrade@gmail.com
+✉️ [santosba.andrade@gmail.com](https://www.linkedin.com/in/batistaandrade/)
 
 ---
 
